@@ -1,0 +1,19 @@
+id: AF1EF1FF1
+title: Offering the Eight Auspicious Substances and Seven Emblems of Royalty
+type: translation
+pechas:
+- I82DFF72D
+- I0475149B
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:34:58.286859
+  last_modified_at: 2023-01-04 12:34:58.286864
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I82DFF72D/B4FF: C55D
+  I0475149B/4E6C: C55D
